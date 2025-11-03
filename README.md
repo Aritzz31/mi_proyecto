@@ -8,4 +8,4 @@ Prueba de ejercicio basico de utilizacion de Git y GitHub.
 
 📦 Instalación
 📥 Clonar el repositorio
-git clone https://github.com/usuario/mi_proyecto.git
+git clone https://github.com/Aritzz31/mi_proyecto.git
